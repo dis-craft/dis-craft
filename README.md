@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/w_srikar) 
+[![w_srikar](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/w_srikar) 
 
 # Latest Post on X
 <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=w_srikar&theme=dracula&response=true&border=true&time=true&icon=thunder"/></a>
